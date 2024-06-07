@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_4___Winform.AddProduct">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UCAAABAIAyAAABCEABCAQABCKAQAAAAIEQAAZgIAAAA=</HashCode>
+      <FileName>AddProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Book">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACQAAAAAEAAIAAAQIgAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.ChangeForm">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAICAAAACBAAAAAAAAAAABAAAgAA=</HashCode>
+      <FileName>ChangeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Game">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAEAAAAAAQAgAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Lager">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAATFAAiBAAlCCGhDgAAACBADAGAABwKAIgAAIgAA=</HashCode>
+      <FileName>Lager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Logger">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAgAAAAAAAABAAEAAAAAAAAEAAAA=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.MainForm">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAIAACCAAACAAAIAAAAAEAABAAAAAA=</HashCode>
+      <FileName>MainFrom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Movie">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAEAAAAAAQAgAgAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Movie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.PayForm">
+    <Position X="7" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIAgACAAABAAAACAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PayForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Product">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAEAAAAQAQAgAAAAACAQABAAAAAAgA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Program">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Webbutik">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAwAAFgAiBAAhACihDgAAACAABAEAABwCAAABAIAAA=</HashCode>
+      <FileName>Webbutik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Properties.Resources">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4___Winform.Properties.Settings">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

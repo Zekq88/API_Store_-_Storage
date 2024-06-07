@@ -1,0 +1,31 @@
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\bin\Debug\Lab 4 - Winform.exe.config
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\bin\Debug\Lab 4 - Winform.exe
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\bin\Debug\Lab 4 - Winform.pdb
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.csproj.AssemblyReference.cache
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab_4___Winform.Properties.Resources.resources
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.csproj.GenerateResource.cache
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.csproj.CoreCompileInputs.cache
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.exe
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.pdb
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab_4___Winform.MainForm.resources
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab_4___Winform.Lager.resources
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab_4___Winform.Webbutik.resources
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab_4___Winform.Kundkorg.resources
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab_4___Winform.AddProduct.resources
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab_4___Winform.ChangeForm.resources
+D:\Coding and Studies\Karlstad C#\Lab 4 - Winform\Lab 4 - Winform\obj\Debug\Lab_4___Winform.PayForm.resources
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.csproj.AssemblyReference.cache
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab_4___Winform.AddProduct.resources
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab_4___Winform.ChangeForm.resources
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab_4___Winform.MainForm.resources
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab_4___Winform.Lager.resources
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab_4___Winform.PayForm.resources
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab_4___Winform.Properties.Resources.resources
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab_4___Winform.Webbutik.resources
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.csproj.GenerateResource.cache
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.csproj.CoreCompileInputs.cache
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.exe
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\obj\Debug\Lab 4 - Winform.pdb
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\bin\Debug\Lab 4 - Winform.exe.config
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\bin\Debug\Lab 4 - Winform.exe
+D:\Coding and Studies\Karlstad C#\Lab 5 - Winform API\Lab 4 - Winform\bin\Debug\Lab 4 - Winform.pdb
